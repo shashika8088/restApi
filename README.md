@@ -1,17 +1,15 @@
-A fully functional REST API built with Node.js and Express, integrated with MongoDB for persistent data storage using Mongoose as the ODM. The API supports CRUD (Create, Read, Update, Delete) operations with proper routing, middleware, and error handling. Designed for scalability and ease of integration with frontend applications or third-party services.
+A REST API built with Node.js and Express, connected to MongoDB via Mongoose, designed for efficient data retrieval. The API supports displaying records with filtering and selection capabilities, making it ideal for applications that require quick access to structured data without modification features.
 
 Key Features:
 
-Node.js + Express backend for efficient request handling
+Node.js + Express backend for fast and lightweight requests
 
-MongoDB + Mongoose for schema-based, NoSQL data modeling
+MongoDB + Mongoose for schema-based, NoSQL data management
 
-CRUD operations with clean and modular routes
+Read-only API for secure data exposure
 
-Middleware for parsing requests, validation, and logging
+Filtering and field selection for tailored responses
 
-Environment variables for secure configuration
+Modular and maintainable route structure
 
-RESTful design for seamless API consumption
-
-Easy to extend and deploy
+Environment-based configuration for easy deployment
