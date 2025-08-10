@@ -1,0 +1,80 @@
+[
+  {
+    "name": "iphone",
+    "price": 154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone10",
+    "price": 1154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "watch",
+    "price": 204,
+    "company": "apple"
+  },
+  {
+    "name": "macbook",
+    "price": 2154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "ipad",
+    "price": 799,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "airpods",
+    "price": 249,
+    "company": "apple"
+  },
+  {
+    "name": "iphone13",
+    "price": 999,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphoneSE",
+    "price": 429,
+    "company": "apple"
+  },
+  {
+    "name": "appleTV",
+    "price": 179,
+    "company": "apple"
+  },
+  {
+    "name": "homepod",
+    "price": 299,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "magicMouse",
+    "price": 99,
+    "company": "apple"
+  },
+  {
+    "name": "keyboard",
+    "price": 129,
+    "company": "apple"
+  },
+  {
+    "name": "studioDisplay",
+    "price": 1599,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "studioenv",
+    "price": 1599,
+    "feature": true,
+    "company": "apple"
+  }
+]
